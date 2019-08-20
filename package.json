@@ -1,0 +1,19 @@
+{
+  "name": "url-shortener-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MudOnTire/url-shortener-service.git",
+  "author": "MudOnTire <895157882@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "config": "^3.2.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "shortid": "^2.2.14",
+    "valid-url": "^1.0.9"
+  }
+}

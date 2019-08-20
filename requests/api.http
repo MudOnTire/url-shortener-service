@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://github.com/nodejs/docker-node#create-a-dockerfile-in-your-nodejs-app-project"
+}
