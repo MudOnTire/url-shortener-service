@@ -2,5 +2,5 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-  "longUrl": "https://github.com/nodejs/docker-node#create-a-dockerfile-in-your-nodejs-app-project"
+  "longUrl": "https://www.amazon.com/Apple-MacBook-13-inch-1-4GHz-quad-core/dp/B07V49KGVQ/ref=sr_1_1?keywords=macbook+pro&qid=1566373249&s=gateway&sr=8-1"
 }
