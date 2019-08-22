@@ -189,4 +189,6 @@ module.exports = router;
 
 这样，一个简单的短链接生成服务就完成了，往往在我们看来很神奇的技术其实背后的原理和实现很简单，希望本文对大家有所启发。
 
+>最后，推荐大家使用[Fundebug](https://www.fundebug.com/?utm_source=MudOnTire)，一款很好用的BUG监控工具~
+
 本文Demo地址：https://github.com/MudOnTire/url-shortener-service
